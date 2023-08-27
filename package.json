@@ -3,3 +3,4 @@
     "build": "npx prisma db push"
   }
 }
+
