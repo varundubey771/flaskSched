@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "build": "npx prisma db push;cd /api;flask --app index run; cd .."
+    "build": "npx prisma@4.15.0 db push"
   }
 }
 
