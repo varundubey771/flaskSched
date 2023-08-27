@@ -14,6 +14,7 @@ import subprocess
 # config = configparser.ConfigParser()
 # config.read('config.ini')
 
+
 # async def writer(data):
 #     db = Prisma(auto_register=True)
 #     await db.connect()
