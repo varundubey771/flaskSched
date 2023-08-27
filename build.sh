@@ -2,4 +2,5 @@
 pip install -r requirements.txt
 npx prisma generate
 npx prisma migrate deploy
-flask run
+cd /api
+flask --app index run
