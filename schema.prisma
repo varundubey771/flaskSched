@@ -4,6 +4,7 @@ datasource db {
   relationMode = "prisma"
 }
 
+
 generator client {
   provider             = "prisma-client-py"
   recursive_type_depth = 5
