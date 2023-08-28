@@ -1,6 +1,1 @@
-{
-  "scripts": {
-    "build": "npx prisma@4.15.0 db push"
-  }
-}
 
