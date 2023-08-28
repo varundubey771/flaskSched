@@ -7,7 +7,6 @@ import re
 import asyncio
 # from prisma import Prisma
 # from prisma.models import JobCount
-# import prisma
 import datetime
 import subprocess
 
